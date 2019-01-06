@@ -10,6 +10,7 @@ public class Configuration {
 	private int minimum;
 	private int maximum;
 	
+	/* Getters and Setters are needed to avoid a compile error */
 	public int getMinimum() {
 		return minimum;
 	}
